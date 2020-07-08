@@ -4,6 +4,13 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <OutputType>Library</OutputType>
     <nullable>enable</nullable>
+    <RepositoryUrl>https://github.com/npnelson/CodeAuthenticationHandler</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Description>Authenticate ASPNet Core Requests with ?code= in querystring</Description>
+    <Authors>npnelson</Authors>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
 
 </Project>
